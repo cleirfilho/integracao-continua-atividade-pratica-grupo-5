@@ -1,4 +1,4 @@
-name: workflow angular
+name: workflow angular2
 
 on:
   push:
